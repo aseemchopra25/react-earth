@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# 3D Interactive Earth
+
+![Alt](https://raw.githubusercontent.com/aseemchopra25/external-files/main/react-earth2.gif)
+> Created an interactive 3D earth using ReactJS, ThreeJS, React-Three-Fiber and Drei Modules
+> Used 8k resolution pictures to render the surface of the earth as textures and loaders
+> Added clouds moving at the same rotation speed as earth to create sync
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
