@@ -1,6 +1,6 @@
 # 3D Interactive Earth
 
-![Alt](![image](https://user-images.githubusercontent.com/87986673/131530439-bb67e817-0c42-4b9b-a30b-e083e4d25188.png))
+![image](https://user-images.githubusercontent.com/87986673/131530439-bb67e817-0c42-4b9b-a30b-e083e4d25188.png)
 > Created an interactive 3D earth using ReactJS, ThreeJS, React-Three-Fiber and Drei Modules
 > Used 8k resolution pictures to render the surface of the earth as textures and loaders
 > Added clouds moving at the same rotation speed as earth to create sync
